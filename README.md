@@ -22,7 +22,13 @@
 
 ## Glad to see you here  
 
-Welcome to my GitHub page, where you'll find a collection of my Python projects that I've been working on. From simple scripts to more complex applications, I've put my skills in Python to the test and have created a variety of projects that showcase my abilities. Whether you're a fellow developer looking for inspiration or a beginner looking to learn more about Python, I hope you'll find something here that interests you. Check out the projects and feel free to reach out if you have any questions or feedback. Happy coding!
+Welcome to my GitHub page, where you'll find a collection of my Python projects that I've been working on.<br>
+
+From simple scripts to more complex applications, I've put my skills in Python to the test and have created a variety of projects that showcase my abilities.<br>
+ 
+Whether you're a fellow developer looking for inspiration or a beginner looking to learn more about Python, I hope you'll find something here that interests you.<br>
+
+Check out the projects and feel free to reach out if you have any questions or feedback. Happy coding!
 
 - 👨‍💻 All about me is at [My Website](https://www.oliver-joisten.se/)
 
