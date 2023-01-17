@@ -20,15 +20,40 @@
 </a>  
 </div>
 
-## Glad to see you here  
+## Welcome! Glad to see you here  
 
-Welcome to my GitHub page, where you'll find a collection of my Python projects that I've been working on.<br>
+Here you'll find a collection of my Python projects that I've been working on. From simple scripts to more complex applications, I've put my skills in Python to the test and have created a variety of projects that showcase my abilities.
 
-From simple scripts to more complex applications, I've put my skills in Python to the test and have created a variety of projects that showcase my abilities.<br>
- 
-Whether you're a fellow developer looking for inspiration or a beginner looking to learn more about Python, I hope you'll find something here that interests you.<br>
+Getting Started
+These are the Python projects that I have been working on, you can find the source code of each projectin the diffrent folder.
 
-Check out the projects and feel free to reach out if you have any questions or feedback. Happy coding!
+Prerequisites
+You need to have Python installed and for some project even Customtkinter or tkinter on your machine in order to run these projects.
+
+Running the projects
+To run the projects you need to:
+
+clone or download the repository
+navigate to the project folder
+open the project with your favorite Python editor
+run the main script file.<br>
+
+Built With<br>
+Python - The programming language<br>
+Tkinter library<br>
+Cunstomtikinter library
+
+Contributing
+If you have any feedback or questions, feel free to reach out.
+
+Authors
+The-R4V3N - Initial work - Your Github
+
+License
+This project is open-sourced and does not have any license.
+
+Acknowledgments
+Thank you for visiting my GitHub page.
 
 - 👨‍💻 All about me is at [My Website](https://www.oliver-joisten.se/)
 
